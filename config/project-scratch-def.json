@@ -1,0 +1,10 @@
+{
+  "orgName": "Health Cloud Person Accounts",
+  "edition": "Developer",
+  "features": ["ContactsToMultipleAccounts", "PersonAccounts", "ContactsToMultipleAccounts"],
+  "settings": {
+    "orgPreferenceSettings": {
+      "s1EncryptedStoragePref2": false
+    }
+  }
+}
